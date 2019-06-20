@@ -1,0 +1,12 @@
+{
+  "Version": "1.0", 
+  "Parameters": {
+    "CodeKey": "ProdSSMPolicyCheck.zip", 
+    "SourceRuntime": "python3.6", 
+    "RuleName": "ProdSSMPolicyCheck", 
+    "SourceEvents": "AWS::EC2::Instance", 
+    "OptionalParameters": "{}", 
+    "InputParameters": "{}"
+  }, 
+  "Tags": "[]"
+}
