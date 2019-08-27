@@ -1,0 +1,12 @@
+{
+  "Version": "1.0", 
+  "Parameters": {
+    "CodeKey": "IAM_GROUP_HAS_USERS_CHECK.zip", 
+    "SourceRuntime": "python3.6", 
+    "RuleName": "IAM_GROUP_HAS_USERS_CHECK", 
+    "SourceEvents": "AWS::IAM::Group", 
+    "OptionalParameters": "{}", 
+    "InputParameters": "{}"
+  }, 
+  "Tags": "[]"
+}
